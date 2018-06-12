@@ -13,6 +13,9 @@ void setup(){
 }
 
 void loop(){
+  loop1.update();
+  loop2.update();
+  loop3.update();
 }
 
 void myFunction1(){
